@@ -22,3 +22,7 @@ git начнёт отслеживать изменения
 ## Something work..
 
 something text..
+
+## Create test_branch_2
+
+Work with second branch
