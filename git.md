@@ -18,3 +18,7 @@ git начнёт отслеживать изменения
 6.  git log - журнал изменений
 7. git checkout - переключение между версиями
 8.  git diff - Показывает разницу между текущим файлом и сохранённым
+
+## Create test_branch_2
+
+Work with second branch
